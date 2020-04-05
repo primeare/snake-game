@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "name": "snake-game",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Simple terminal Snake game without dependencies",
+  "main": "index.js",
+  "scripts": {
+    "game": "node index.js"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primeare/snake-game.git"
+  },
+  "keywords": [
+    "snake", "snake-game", "cli-snake", "cli", "dependency-free", "ansi-snake",
+    "game", "play-snake", "javascript", "snake-js", "play", "terminal-game",
+    "terminal-snake"
+  ],
+  "author": {
+    "name": "Vladyslav Dukhin",
+    "email": "vladyslav.dukhin@gmail.com",
+    "url": "https://vladyslav.dev"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/primeare/snake-game/issues"
+  },
+  "homepage": "https://github.com/primeare/snake-game#readme"
+}
